@@ -34,3 +34,12 @@ Messaging seems like a uniquely promising place where peer-to-peer apps can figh
 * [Zbay](https://zbay.app)
 * [Status](https://status.im)
 * [Session](https://getsession.org/)
+
+## About
+
+FightFAANG is a project of [Zbay](https://zbay.app) founder Holmes Wilson, who previously co-founded the U.S.-based tech activism nonprofit [Fight for the Future](https://fightforthefuture.org/).
+
+* [Zbay.app](https://zbay.app)
+* [@ZbayApp on Twitter](https://twitter.com/zbayapp)
+* [Zbay on Github](https://github.com/ZbayApp/zbay)
+* [FightFAANG on Github](https://github.com/ZbayApp/fightfaang) 
