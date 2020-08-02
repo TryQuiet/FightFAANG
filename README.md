@@ -1,3 +1,6 @@
+---
+title: Fight FAANG! 
+---
 
 # A strategy for fighting the "FAANG" tech giants
 
