@@ -21,7 +21,7 @@ Video of the talk will be published here, as soon as it airs at HOPE 2020.
 
 ## Peer-to-peer mesaging apps
 
-Messaging seems like a uniquely promising place to begin, so the talk (and this page) focus on messaging apps. This list is not comprehensive, and if there is an approach to peer-to-peer messaging you'd like to see listed here, [submit a pull request](https://github.com/ZbayApp/fightfaang) or [contact us](mailto:h@zbay.llc).
+Messaging seems like a uniquely promising place where peer-to-peer apps can fight FAANG, so the talk (and this page) focus on messaging apps. This list is not comprehensive, and if there is an approach to peer-to-peer messaging you'd like to see listed here, [submit a pull request](https://github.com/ZbayApp/fightfaang) or [contact us](mailto:h@zbay.llc).
 
 * [Ricochet](https://ricochet.im)
 * [Cwtch](https://cwtch.im/)
