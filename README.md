@@ -19,7 +19,7 @@ To accompany the [HOPE](https://hope.net/) talk [Zbay, Fighting FAANG, and the Q
 * [Scalable Privacy - Daira Hopwood at Zcon1](https://www.youtube.com/watch?v=HNSf2Bw_YmM)
 * [Loki Service Node Financials (reddit thread)](https://www.reddit.com/r/LokiProject/comments/hwg7ud/service_node_financials/)
 
-## Peer-to-peer mesaging apps
+## Peer-to-peer messaging apps
 
 Messaging seems like a uniquely promising place where peer-to-peer apps can fight FAANG, so the talk (and this page) focus on messaging apps. This list is not comprehensive, and if there is an approach to peer-to-peer messaging you'd like to see listed here, [submit a pull request](https://github.com/ZbayApp/fightfaang) or [contact us](mailto:h@zbay.llc).
 
