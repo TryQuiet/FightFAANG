@@ -1,7 +1,3 @@
----
-title: Fight FAANG! 
----
-
 # A strategy for fighting the "FAANG" tech giants
 
 Even while it turbocharges movements to fight unaccountable power, the Internet itself is becoming one. The tech press has a fun name for the companies driving this trend: [FAANG](https://en.wikipedia.org/wiki/Big_Tech#FAANG) (Facebook, Amazon, Apple, Netflix, and Google.)  
