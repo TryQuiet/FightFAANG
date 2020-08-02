@@ -6,7 +6,7 @@ To accompany the [HOPE](https://hope.net/) talk [Zbay, Fighting FAANG, and the Q
 
 ## The talk
 
-Video of the talk will be published here, as soon as it airs at HOPE 2020.
+[Watch it here.](https://vimeo.com/444081020)
 
 ### Sources:
 
@@ -38,4 +38,8 @@ FightFAANG is a project of [Zbay](https://zbay.app) founder Holmes Wilson, who p
 * [Zbay.app](https://zbay.app)
 * [@ZbayApp on Twitter](https://twitter.com/zbayapp)
 * [Zbay on Github](https://github.com/ZbayApp/zbay)
-* [FightFAANG on Github](https://github.com/ZbayApp/fightfaang) 
+* [FightFAANG on Github](https://github.com/ZbayApp/fightfaang)
+
+## Acknowledgments
+
+A hearty thanks to [Guillaume Marceau](http://gmarceau.qc.ca/) and [Lisa LaRochelle](https://github.com/Lilaro) for their feedback on Zbay, this talk, and the ideas underlying both.
