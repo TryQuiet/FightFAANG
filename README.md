@@ -6,7 +6,7 @@ To accompany the [HOPE](https://hope.net/) talk [Zbay, Fighting FAANG, and the Q
 
 ## The talk
 
-[Watch it here (after HOPE concludes).](https://vimeo.com/444081020)
+Watch it here:  [https://vimeo.com/444081020](https://vimeo.com/444081020)
 
 ### Sources:
 
