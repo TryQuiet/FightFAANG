@@ -31,6 +31,28 @@ Messaging seems like a uniquely promising place where peer-to-peer apps can figh
 * [Status](https://status.im)
 * [Session](https://getsession.org/)
 
+## Relevant projects
+
+* [Aether](https://getaether.net/)
+* [3box](https://3box.io)
+* [Blockstack](https://blockstack.org)
+* [IPFS](https://ipfs.io)
+* [Filecoin](https://filecoin.io/)
+* [Textile](https://textile.io)
+* [GUN](https://gun.eco)
+* [Scuttlebutt](https://scuttlebutt.nz/)
+* [Patchwork](https://github.com/ssbc/patchwork)
+* [Planetary](https://planetary.social/)
+* [Radicle](https://radicle.xyz)
+* [Webtorrent](https://webtorrent.io/)
+* [Webtorrent Workshop](https://github.com/webtorrent/workshop)
+* [Particl](https://particl.io/)
+* [OpenBazaar](https://openbazaar.org/)
+* [Tor](https://torproject.org/)
+* [Nym](https://nymtech.net/)
+* [Loopix](https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/piotrowska)
+* [Orchid](https://www.orchid.com/)
+
 ## About
 
 FightFAANG is a project of [Zbay](https://zbay.app) founder Holmes Wilson, who previously co-founded the U.S.-based tech activism nonprofit [Fight for the Future](https://fightforthefuture.org/).
